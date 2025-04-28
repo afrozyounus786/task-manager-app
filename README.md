@@ -8,10 +8,7 @@ This is a simple Employee-Admin task assigning application.
 - Secure login for admin and employees.
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- React.js (if you used it)
+- React.js with tailwind 
 
 ## How to Run
 - Clone the repo
